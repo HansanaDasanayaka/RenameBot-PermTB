@@ -4,9 +4,9 @@ class script(object):
 <b>Send me any Telegram file and choose appropriate option! </b>"""
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
-    UPGRADE_TEXT = "CONTACT @prgofficial"
+    UPGRADE_TEXT = "Contact @EasyBotsChat"
     DOWNLOAD_START = "Give Me Some Time..."
-    UPLOAD_START = "Starting to upload..."
+    UPLOAD_START = "Starting to Upload..."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @prgofficial **"
     SAVED_THUMB = "Thumbnail Saved ✅ This Is Permanent"
     DEL_THUMB = "Thumbnail cleared succesfully!"
